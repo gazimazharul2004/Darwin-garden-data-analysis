@@ -4,7 +4,7 @@ This repository analyzes the number of gardens in Darwin (AU) suburbs and prepar
 
 ## Data
 
-- Input file: `/home/runner/work/Darwin-garden-data-analysis/Darwin-garden-data-analysis/data/darwin_suburb_gardens.csv`
+- Input file: `data/darwin_suburb_gardens.csv`
 - Columns:
   - `suburb`: suburb name
   - `gardens`: number of gardens in that suburb
