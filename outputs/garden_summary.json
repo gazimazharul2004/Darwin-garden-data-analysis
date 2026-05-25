@@ -1,0 +1,30 @@
+{
+  "total_suburbs": 21,
+  "total_gardens": 615,
+  "average_gardens_per_suburb": 29.29,
+  "median_gardens_per_suburb": 29,
+  "max_gardens": 45,
+  "min_gardens": 17,
+  "top_5_suburbs_by_gardens": [
+    {
+      "suburb": "Anula",
+      "gardens": 45
+    },
+    {
+      "suburb": "Karama",
+      "gardens": 41
+    },
+    {
+      "suburb": "Driver",
+      "gardens": 39
+    },
+    {
+      "suburb": "Wanguri",
+      "gardens": 37
+    },
+    {
+      "suburb": "Leanyer",
+      "gardens": 36
+    }
+  ]
+}
